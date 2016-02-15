@@ -1,0 +1,2 @@
+# ScanQRandBarCode
+用ios内部框架写的swift版本的扫描二维码和条形码的一个demo
